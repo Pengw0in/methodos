@@ -1,6 +1,6 @@
 # Methodos
 
-High-performance HTTP methods testing tool written in Go. Tests various HTTP methods against a URL to find verb tampering vulnerabilities and dangerous enabled methods.
+High-performance HTTP methods testing tool written in Go. Tests various HTTP methods against a URL to find enabled methods.
 
 ## Features
 
